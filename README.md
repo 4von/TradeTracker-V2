@@ -62,8 +62,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tradetracker.git
-   cd tradetracker
+   git clone https://github.com/4von/TradeTracker-V2.git
+   cd TradeTracker-V2
    ```
 
 2. **Install dependencies**:
