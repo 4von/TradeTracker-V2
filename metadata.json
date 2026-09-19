@@ -1,0 +1,6 @@
+{
+  "name": "TradeTracker FX - Trading Journal & Analytics",
+  "description": "A modern Forex, Crypto & Metals trading journal with deep risk analytics, AI trade coaching, Monte Carlo simulation, and position size calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
